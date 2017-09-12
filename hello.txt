@@ -3,4 +3,8 @@ hello word
 dsadasjdjaskdasdkjas
 
 
+<<<<<<< HEAD
 dsadjasidjsa dsadasd
+=======
+dsadjasidjsa
+>>>>>>> 5749e19f5f4446f46726ed9d9c01f0d934ea98b4
